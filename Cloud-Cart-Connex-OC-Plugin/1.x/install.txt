@@ -1,0 +1,23 @@
+############################################################################
+#  API for Opencart 1.x for Cloud Cart Connector and Connex for QuickBooks      #
+############################################################################
+
+
+###### INSTALL INSTRUCTIONS ########
+
+1) Upload the admin and catalog directories to your OpenCart installation
+3) Give your user access and modify permissions under System -> User -> User Groups
+4) Enable the API under Extensions -> Product Feeds.
+5) Replace the email 
+
+################################
+
+Last Update on October 30, 2014
+ - Added get updated products feed
+
+Last Update on September 4, 2014
+ - Fixed issue with order details and product options
+
+September 2, 2014
+ - Fixed issue with order detail quantity
+

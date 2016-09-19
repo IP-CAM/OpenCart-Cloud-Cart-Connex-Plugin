@@ -1,0 +1,29 @@
+#####################################################################################
+#  API for Opencart 2.0 - 2.2 for Cloud Cart Connector and Connex for QuickBooks     	    #
+#####################################################################################
+
+
+###### INSTALL INSTRUCTIONS ########
+
+1) Upload the admin and catalog directories to your OpenCart installation
+2) Give your user access and modify permissions under System -> User -> User Groups
+3) Enable the Connex for Quickbooks and enter required Connex settings under Extensions -> Product Feeds.
+4) Add any functionality you require in catalog/controller/feed/connex_qb.php and catalog/model/feed/connex_qb.php
+
+################################
+
+Last Update on September 10, 2016
+ - Added ability to get extract tracking number with order data
+
+Last Update on August 31, 2016
+ - Fixed bugs and added ability to get Order Vouchers as Order Products
+
+Last Update on October 30, 2014
+ - Added get updated products feed
+
+Last Update on September 4, 2014
+ - Fixed issue with order details and product options
+
+September 2, 2014
+ - Fixed issue with order detail quantity
+

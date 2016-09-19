@@ -1,0 +1,7 @@
+############################################################################
+#  API for Opencart For Cloud Cart Connector and Connex for QuickBooks     #
+############################################################################
+
+
+###### OPEN THE (INSTALL.TXT) FILE IN 1.X OR 2.0 TO 2.2 FOR INSTALL INSTRUCTIONS ########
+
