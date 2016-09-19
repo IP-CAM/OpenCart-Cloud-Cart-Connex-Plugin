@@ -9,5 +9,5 @@ This plugin is compatible with Connex for QuickBooks and the Cloud Cart Connecto
  
  To obtain a trial of our service, visit our websites:
  
-  - <a href="https://www.cloudcartconnector.com" target="_blank" >Cloud Cart Connector</a>
+ - <a href="https://www.cloudcartconnector.com" target="_blank" >Cloud Cart Connector</a>
  - <a href="https://www.connexforquickbooks.com" target="_blank">Connex for QuickBooks</a>
